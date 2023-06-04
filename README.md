@@ -40,4 +40,4 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 
 ## Contact
 
-For any inquiries or support, please reach out to us at [email address].
+For any inquiries or support, please reach out to us at adityavsingh001@gmail.com.
